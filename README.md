@@ -6,7 +6,7 @@ I bridge the gap between **Institutional Banking Wisdom** and **Agentic AI Archi
 ---
 
 ### 🏛️ Core Expertise
-* 🤖 **Agentic AI:** Gemini 1.5 Flash Orchestration, Prompt Engineering, AI Agents
+* 🤖 **Agentic AI:** Gemini 2.5 Flash Orchestration, Prompt Engineering, AI Agents
 * 🛡️ **BFSI Domain:** Credit Risk (IFRS 9), Basel III, Mortgage & BFSI Sales Strategy
 * 📉 **Data Science:** Predictive Churn Modeling, Scikit-Learn, Statistical Analysis
 * 💻 **Technical:** Python (Pandas/NumPy), SQL, Streamlit Cloud Deployment
