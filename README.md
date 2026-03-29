@@ -1,5 +1,3 @@
-# Designed By: Bhavesh Suryavanshi (AI Solutions Consultant)
-
 # 👋 Namaste, This is Bhavesh Suryavanshi
 ### AI Solutions Consultant | BFSI Specialist | 16+ Years Experience
 
