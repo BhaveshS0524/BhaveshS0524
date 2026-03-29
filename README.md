@@ -2,7 +2,7 @@
 # Designed By: Bhavesh Suryavanshi (AI Solutions Consultant)
 # Purpose: Professional Landing Page for GitHub Profile
 
-# 👋 Namaste, I'm Bhavesh Suryavanshi
+# 👋 Namaste, This is Bhavesh Suryavanshi
 ### AI Solutions Consultant | BFSI Specialist | 16+ Years Experience
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
