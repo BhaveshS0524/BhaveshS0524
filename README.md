@@ -1,6 +1,4 @@
-# Special Profile README
 # Designed By: Bhavesh Suryavanshi (AI Solutions Consultant)
-# Purpose: Professional Landing Page for GitHub Profile
 
 # 👋 Namaste, This is Bhavesh Suryavanshi
 ### AI Solutions Consultant | BFSI Specialist | 16+ Years Experience
