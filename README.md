@@ -1,4 +1,4 @@
-# # 👋 Namaste, This is Bhavesh Suryavanshi
+# 👋 Namaste, This is Bhavesh Suryavanshi
 ### **Founder, Shreem Analytics** | AI Solutions Consultant | BFSI Specialist
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -14,10 +14,10 @@ I bridge the gap between **Institutional Banking Wisdom** and **Agentic AI Archi
 
 ### 🏛️ Core Expertise & Specializations
 
-* 🤖 **Agentic AI & Engineering:** LangChain/LangGraph orchestration, Advanced Prompt Engineering, Custom Middleware (Logging, Execution Timers, Role-Based Access Control Gateways).
-* 📊 **Data Science & Business Intelligence:** Power BI, Predictive Analytics, Tabular Data Engineering, Matrix Re-indexing layouts.
+* 🤖 **Agentic AI & Engineering:** LangChain & LangGraph Orchestration, Advanced Prompt Engineering, Multi-Agent Crews, Custom Python Middleware (Logging, Execution Timers, Role-Based Access Control Gateways).
+* 📊 **Data Science & Business Intelligence:** End-to-End ETL Pipelines, Predictive Churn Modeling, Power BI Analytics, Advanced Tabular Data Engineering.
 * 🛡️ **BFSI Domain Mastery:** Credit Risk (IFRS 9), Basel III compliance, Mortgage & BFSI Sales Strategy, Stress-Testing Modeling.
-* 🗣️ **Stakeholder Leadership:** Executive Coaching, Communication Frameworks, Strategic Management Consulting.
+* 🗣️ **Stakeholder Leadership:** Executive Coaching, High-Impact Professional Communication Frameworks, Strategic Management Consulting.
 
 ---
 
@@ -43,17 +43,21 @@ My technical architectures are explicitly benchmarked to handle enterprise-level
 
 ---
 
-### 📈 Credentials & Milestones
-* **Founder & Principal Architect**, *Shreem Analytics* * **Certified Power BI Professional** — Issued by Tutedude
-* **Introduction to Generative AI Badge** — Credited by Google Cloud Platform
-* **Advanced Data Analytics Core** — Coursera Financial Aid Recipient
+### 📈 Professional Credentials & Continuous Learning
+
+* 🏢 **Founder & Principal Architect**, *Shreem Analytics*
+* 🎓 **IBM Data Science Fundamentals Core** & Advanced Analytics Stack
+* 🔏 **LangChain & LangGraph Frameworks** for Production AI Agent Building
+* 📊 **Certified Power BI Professional** — Issued by Tutedude
+* ☁️ **Introduction to Generative AI Badge** — Credited by Google Cloud Platform
+* 🏛️ **Advanced Data Analytics Architecture** — Coursera Financial Aid Recipient
 
 ---
 
 ### 📫 Connect with Me
 * 💼 **LinkedIn Profile:** [Connect with me on LinkedIn](https://www.linkedin.com/in/bhavesh-suryavanshi-89596043/)
 * 🌐 **Corporate Portal:** Shreem Analytics Consulting Operations
-* 📧 Reach out to launch high-performance data pipelines and secure AI components in your workspace.
+* 📧 Reach out to launch high-performance data pipelines, custom LangChain agents, and secure AI components in your workspace.
 
 ---
 *"Transforming Complex Core Data into Strategic Corporate Certainty."*
